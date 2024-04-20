@@ -1,0 +1,126 @@
+
+.body{font-family: 'Lato', sans-serif;}
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+.body{background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #9c1bfe 100%);
+
+
+}
+
+.titulo{display flex:; justify-content: center;text-align: center;align-items: center;flex-direction: row;flex-wrap: wrap;}
+
+
+.orden-1{display: flex;justify-content: center;align-items: center;flex-wrap: wrap;}
+
+.color-2{color:rgb(252, 251, 249)}
+
+.logo-f1{width: 300px;}
+
+.auto{display: flex;width: 40%;}
+
+.formato-foto{display: flex;justify-content: center;align-items: center;width:100%;height:auto;flex-wrap: wrap;}
+
+
+.orden-2{display: flex; margin:50px;background-color: rgba(212, 210, 209, 0.247);border-radius: 0.3em;width: 300px ;height: 450px;justify-content: center;backdrop-filter: blur(10px);flex-direction: column;justify-content: center;align-items: center; color: #941c5e;color: #030102;}
+
+.card{display: flex;width: 300px;}
+
+.orden-20{display: flex;width: 300px;height: 300px;background-size: cover;background-repeat: no-repeat;border-radius: 50%;flex-direction: column;
+justify-content: center;align-items: center;}
+
+
+.orden-3{display: flex; margin:50px;background-color: rgba(251, 251, 251, 0.238);border-radius: 0.3em;width: 300px ;height: 450px;justify-content: center;backdrop-filter: blur(10px);flex-direction: column;justify-content: center;align-items: center; color: #0c0b0c;}
+.orden-2{;}
+
+.formato-0{display: flex;justify-content: center; align-items: center; text-align: center;text-decoration: dashed;color: rgb(251, 249, 249);flex-direction: column;background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);color: ;}
+
+.formato-indice{display: flex;margin-top: 15px;color: #faf2f6;}
+
+.formato-indice2{display:flex;border-radius: 50%;color: #030102;}
+
+.barra-1{background-color: #030102;color: rgb(191, 18, 191);display: flex;justify-content: center;text-align: center;align-items: center;width: auto;}
+
+.barra-2{display: flex;justify-content: center;align-items: center;margin-top: 15px;}
+
+.walpaper{background-image: url();background-size: cover;background-repeat: no-repeat;background-position: 40%;flex-wrap: wrap;justify-content: center;align-items: center;background-position: center center;width: 100 %;display: flex;border: 4px;background-position-x: center;}
+
+.walpaper-2{display: flex;width:auto;flex-wrap: wrap;justify-content: center;align-items: center;flex-direction: row;background-color: #FBDA61;
+background-image: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
+}
+
+.walpaper-3{background-image: url(asset/walpaper-4k.jpg);background-size: cover;background-repeat: no-repeat;justify-content: center;}
+
+.orden-auto{display: flex;width:300px;}
+
+
+
+
+.formato-1{display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;align-items: center;}
+
+.formato-1.1{}
+
+.margin-1{margin: 20px;font-size: 30px;}
+
+
+.formato-2{display: flex;height: 100%;text-align: center;flex-wrap: wrap;background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+
+
+.color-3{ display: flex;justify-content: center;text-align: center;align-items: center;margin: 30px;flex-wrap: wrap;}
+
+.formato-3{display: flex;flex-wrap: wrap;justify-content: center; align-items: center;}
+
+.formato-4{height: 500px;align-items: center;}
+
+.orden-4{background-image: url(asset/mercedes\ .jpg);background-repeat: no-repeat;background-size: cover;height:500px;width:100%;justify-content: center;background-position-x: center;display: flex;
+background-position: center center;align-items: center;}
+
+.orden-5{background-color: #c51c707c; backdrop-filter: blur(10px); border-radius: 0.3em;justify-content: center;align-items: center;width:65%; color: #e4e8e6;height:auto;display: flex;
+;padding: 10px;text-align: center;border: 0%;border-bottom: #03010236 ;flex-direction: column;align-items: center;margin-top: 350px;}
+
+
+.modo{width: 200px;height: 100px;display:flex;background-color: rgb(255, 0, 123);border-radius: 0.3em;justify-content: center;align-items: center;}
+
+.modo.nuevo{width: 200px;height: 100px;display:flex;background-color: chartreuse;border-radius: 0.3em;
+justify-content: center;align-items: center;}
+
+.formato-5plus{background-image: url(asset/RED\ BULL.jpg);background-repeat: no-repeat;background-size:cover;padding: 0%;}
+
+.formato-5{display: flex;align-items: center;text-align: center;justify-content: center;flex-direction: column;flex-wrap: wrap;}
+
+.color-calendario{color: aliceblue;}
+
+
+.color-ano{ color: aliceblue;}
+
+.formato-tabela{display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;align-items: center;margin-top: 10px;}
+
+.formato-tabela-1{display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;align-items: center;margin-top: 95px}
+
+.tabela-01{ background-color: rgba(239, 232, 235, 0.246);border-radius: 0.3em;backdrop-filter: blur(10px);margin: 10px;color: rgb(8, 8, 9); width: 120px;height: 200px;justify-content: center;align-items: center;display: flex;flex-direction:column;}
+
+
+.tabela-1{ background-color: rgba(239, 232, 235, 0.246);border-radius: 0.3em;backdrop-filter: blur(10px);margin: 10px;color: rgb(8, 8, 9); width: 120px;height: 200px;justify-content: center;align-items: center;display: flex;flex-direction:column;}
+
+
+.tabela-2{ background-color: rgba(239, 232, 235, 0.246);border-radius: 0.3em;backdrop-filter: blur(10px);margin: 10px;color: rgb(248, 248, 252); width: 120px;height: 200px;justify-content: center;align-items: center;display: flex;flex-direction:column; }
+
+
+
+
+.bandeira-1{width: 100px;}
+
+.logo-f12{width: 240px;}
+
+.tarjetasjava{display: flex;height:900px;background-color: #FFCC70
+  ;}
